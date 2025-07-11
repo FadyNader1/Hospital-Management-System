@@ -54,7 +54,7 @@ A comprehensive web-based Hospital Management System built with ASP.NET Core (.N
 ### Installation
 
 1. **Clone the repository:**
-   git clone https://github.com/yourusername/Hospital-Management-System.git cd Hospital-Management-System
+   git clone https://github.com/FadyNader1/Hospital-Management-System.git cd Hospital-Management-System
 
 2. **Configure the database connection:**
 - Update the connection string in `appsettings.json` under `"ConnectionStrings": { "DC": "..." }`.
@@ -69,7 +69,7 @@ The API will be available at `https://localhost:5001` (or as configured).
 ---
 
 ## API Documentation
-- [API Documentation Hospital management system.pdf]([https://dotnet.microsoft.com/download/dotnet/8.0](https://github.com/FadyNader1/Hospital-Management-System/blob/main/API%20Documentation%20Hospital%20management%20system.pdf))
+- [API Documentation Hospital management system.pdf](https://github.com/FadyNader1/Hospital-Management-System/blob/main/API%20Documentation%20Hospital%20management%20system.pdf)
 
 ### Authentication
 
