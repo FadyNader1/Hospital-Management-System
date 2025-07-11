@@ -1,0 +1,17 @@
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\bin\Debug\net8.0\Hospital Management System.Services.deps.json
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\bin\Debug\net8.0\Hospital Management System.Services.runtimeconfig.json
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\bin\Debug\net8.0\Hospital Management System.Services.dll
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\bin\Debug\net8.0\Hospital Management System.Services.pdb
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\obj\Debug\net8.0\Hospital Management System.Services.csproj.AssemblyReference.cache
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\obj\Debug\net8.0\Hospital Management System.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\obj\Debug\net8.0\Hospital Management System.Services.AssemblyInfoInputs.cache
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\obj\Debug\net8.0\Hospital Management System.Services.AssemblyInfo.cs
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\obj\Debug\net8.0\Hospital Management System.Services.csproj.CoreCompileInputs.cache
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\obj\Debug\net8.0\Hospital Management System.Services.dll
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\obj\Debug\net8.0\refint\Hospital Management System.Services.dll
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\obj\Debug\net8.0\Hospital Management System.Services.pdb
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\obj\Debug\net8.0\Hospital Management System.Services.genruntimeconfig.cache
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\obj\Debug\net8.0\ref\Hospital Management System.Services.dll
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\bin\Debug\net8.0\Hospital Management System.Core.dll
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\bin\Debug\net8.0\Hospital Management System.Core.pdb
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Services\obj\Debug\net8.0\Hospital.6F9F4AD5.Up2Date

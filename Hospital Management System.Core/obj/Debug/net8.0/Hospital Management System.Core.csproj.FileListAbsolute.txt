@@ -1,0 +1,14 @@
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Core\bin\Debug\net8.0\Hospital Management System.Core.deps.json
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Core\bin\Debug\net8.0\Hospital Management System.Core.dll
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Core\bin\Debug\net8.0\Hospital Management System.Core.pdb
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Core\obj\Debug\net8.0\Hospital Management System.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Core\obj\Debug\net8.0\Hospital Management System.Core.AssemblyInfoInputs.cache
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Core\obj\Debug\net8.0\Hospital Management System.Core.AssemblyInfo.cs
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Core\obj\Debug\net8.0\Hospital Management System.Core.csproj.CoreCompileInputs.cache
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Core\obj\Debug\net8.0\Hospital Management System.Core.dll
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Core\obj\Debug\net8.0\refint\Hospital Management System.Core.dll
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Core\obj\Debug\net8.0\Hospital Management System.Core.pdb
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Core\obj\Debug\net8.0\ref\Hospital Management System.Core.dll
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Core\bin\Debug\net8.0\Hospital Management System.Core.runtimeconfig.json
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Core\obj\Debug\net8.0\Hospital Management System.Core.csproj.AssemblyReference.cache
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Core\obj\Debug\net8.0\Hospital Management System.Core.genruntimeconfig.cache

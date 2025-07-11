@@ -1,0 +1,17 @@
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\obj\Debug\net8.0\Hospital Management System.Repository.csproj.AssemblyReference.cache
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\obj\Debug\net8.0\Hospital Management System.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\obj\Debug\net8.0\Hospital Management System.Repository.AssemblyInfoInputs.cache
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\obj\Debug\net8.0\Hospital Management System.Repository.AssemblyInfo.cs
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\obj\Debug\net8.0\Hospital Management System.Repository.csproj.CoreCompileInputs.cache
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\bin\Debug\net8.0\Hospital Management System.Repository.deps.json
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\bin\Debug\net8.0\Hospital Management System.Repository.runtimeconfig.json
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\bin\Debug\net8.0\Hospital Management System.Repository.dll
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\bin\Debug\net8.0\Hospital Management System.Repository.pdb
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\bin\Debug\net8.0\Hospital Management System.Core.dll
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\bin\Debug\net8.0\Hospital Management System.Core.pdb
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\obj\Debug\net8.0\Hospital.A115680F.Up2Date
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\obj\Debug\net8.0\Hospital Management System.Repository.dll
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\obj\Debug\net8.0\refint\Hospital Management System.Repository.dll
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\obj\Debug\net8.0\Hospital Management System.Repository.pdb
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\obj\Debug\net8.0\Hospital Management System.Repository.genruntimeconfig.cache
+F:\ProjectsBackend\Hospital Management System\Hospital Management System.Repository\obj\Debug\net8.0\ref\Hospital Management System.Repository.dll
