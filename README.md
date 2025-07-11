@@ -69,6 +69,7 @@ The API will be available at `https://localhost:5001` (or as configured).
 ---
 
 ## API Documentation
+- [API Documentation Hospital management system.pdf]([https://dotnet.microsoft.com/download/dotnet/8.0](https://github.com/FadyNader1/Hospital-Management-System/blob/main/API%20Documentation%20Hospital%20management%20system.pdf))
 
 ### Authentication
 
